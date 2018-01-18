@@ -1,14 +1,10 @@
-body {
-  margin: 0;
-  /* width: 100%; */
-  box-sizing: border-box;
-}
-
 .carousel-inner{
   width: 100%;
-  max-height: 600px;
+  max-height: 600px !important;
+  min-height: 100% !important;
   top: -60px;
 }
+
 
 .grande{
   width: 100%;
